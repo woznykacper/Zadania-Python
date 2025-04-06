@@ -1,2 +1,3 @@
 nowy plik git testowy
 kolejne zdanie robię 3 commit
+Zmiana numer 4.
