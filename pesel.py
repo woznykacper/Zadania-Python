@@ -54,5 +54,4 @@ def verify_pesel(pesel: str) -> int:
 if __name__ == "__main__":
     pesel_input = input("Wprowadź numer PESEL (11 cyfr): ").strip()  # Pobranie numeru PESEL od użytkownika
     result = verify_pesel(pesel_input)
->>>>>>> 78f3fce681cda5442b429da15d89cf0d8ff67ff5
     print(f"Wynik weryfikacji PESEL: {result}")

@@ -53,5 +53,4 @@ if __name__ == "__main__":
     for i in range(n):
         example = input(f"Wprowadź przykład {i+1}: ")
         result = check_parentheses(example)
->>>>>>> 78f3fce681cda5442b429da15d89cf0d8ff67ff5
         print(f"{example} -> {result}")

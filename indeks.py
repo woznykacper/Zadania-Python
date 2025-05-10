@@ -105,5 +105,4 @@ if __name__ == "__main__":
     # Wypisanie wyników
     print("Wyniki:")
     for res in results:
->>>>>>> 78f3fce681cda5442b429da15d89cf0d8ff67ff5
         print(res)
