@@ -1,0 +1,10 @@
+nowy plik git testowy
+kolejne zdanie robię 3 commit
+Zmiana numer 4.
+Zmiana numer 5.
+Zmiana numer 6.
+Zmiana numer 7.
+Zmiana numer 8.
+Zmiana numer 9.
+Zmiana numer 10.
+Zmiana numer 11.
